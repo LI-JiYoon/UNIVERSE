@@ -1,2 +1,3 @@
-# MTVS_final_project
+# UNIVERSE
 메타버스 1기 융합 프로젝트
+전공별로 모이는 대학생 커뮤니티 플랫폼
