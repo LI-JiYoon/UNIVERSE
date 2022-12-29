@@ -17,13 +17,7 @@
 - 박보령(기획), 유다성(모델러), 이진호(XR), 홍진호(XR), 손준형(Net), 이지윤(AI)
 
 
-## 📚 프로젝트 결과물
+## ✨📚 프로젝트 결과물
 
-https://drive.google.com/drive/u/0/folders/18VPEMeDM-ipeTKWpTpMNThZ-BW0niCFO
+- [기획안/발표자료/시연영상](https://drive.google.com/drive/u/0/folders/18VPEMeDM-ipeTKWpTpMNThZ-BW0niCFO)
 
-
-## ✨ 프로젝트 산출물
-- [기획안](https://github.com/MusicSketch/Overview/tree/main)
-- [발표자료](https://github.com/MusicSketch/Overview/tree/main)
-- [개발일지](https://github.com/MusicSketch/Overview/tree/main)
-- [회의록](https://github.com/MusicSketch/Overview/tree/main)
